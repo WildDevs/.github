@@ -1,12 +1,3 @@
-## Hi there 👋
+## How to join the Wild Devs Organisation
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you would like to become a part of the Wild Devs organization and community, you can join our [Discord](https://discord.gg/YzfpKTK7Gp) and contact one of our Wild Dev Staff members to make a request to join. Please keep in mind, the language on GitHub is english only, even in your projects which are shared with the Wild Dev Community. Your [Discord](https://discord.gg/YzfpKTK7Gp) offers english and german areas.
